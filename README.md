@@ -1,1 +1,1 @@
-# Store-Manager-Steps-for-Execution-
+Cookbook: Your Virtual Kitchen Assistant 
